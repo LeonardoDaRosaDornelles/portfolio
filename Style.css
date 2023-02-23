@@ -26,19 +26,14 @@
 
 /*====================seta====================*/
 #seta {
-    height: 100vh;
     background-position: center;
     justify-content: center;
     text-align: center;
-    margin-top: 12px;
-
-    justify-content: center;
 }
 
 #seta > #stbaixo {
     width: 60px;
     height: 60px;
-    padding-bottom: 30px;
     margin-bottom: 20px;
     animation: jumping 1s linear infinite;
     cursor: pointer;
@@ -120,7 +115,6 @@
     }
     
     #seta {
-        margin-top: 422px;
     }
 }
 
