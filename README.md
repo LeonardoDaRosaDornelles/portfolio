@@ -13,7 +13,10 @@ Em resumo, como Front-end Jr, uso HTML, CSS e JS para criar interfaces web atrae
 
 <h2>Meus projetos</h2> 
 
-[projeto login](https://leonardodarosadornelles.github.io/projeto-login/)
+[Projeto login](https://leonardodarosadornelles.github.io/projeto-login/)
 
-[projeto cordel](https://leonardodarosadornelles.github.io/projeto-cordel/)
+[Projeto cordel](https://leonardodarosadornelles.github.io/projeto-cordel/)
 
+[Projeto androide](https://leonardodarosadornelles.github.io/projeto-andorid/)
+
+[Projeto social](https://leonardodarosadornelles.github.io/projeto-social/)
