@@ -1,6 +1,6 @@
 <h1> Meu portifólio 👇</h1>
 
-[![Meu portifolio](https://github.com/LeonardoDaRosaDornelles/portifolio/blob/main/imagens/bg-portifolio.png)](https://leonardodarosadornelles.github.io/portifolio/)
+[![Meu portifolio](https://github.com/LeonardoDaRosaDornelles/portfolio/blob/main/imagens/sb-portifolio.png)](https://leonardodarosadornelles.github.io/portifolio/)
  
 <h2>Sobre mim</h2>
 Olá pessoal, sou um Front-end Jr e estou muito animado em compartilhar meu trabalho com vocês. Como Front-end, meu principal objetivo é criar interfaces web que sejam agradáveis visualmente e fáceis de usar.
