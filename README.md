@@ -21,4 +21,11 @@ Em resumo, como Front-end Jr, uso HTML, CSS e JS para criar interfaces web atrae
 
 [Projeto social](https://leonardodarosadornelles.github.io/projeto-social/)
 
-<h2></h2>
+<h2>Habilidades</h2>
+<H3>HTML</H3>
+<H3>CSS</H3>
+<H3>JS</H3>
+<H3>aprendendo NODE.JS</H3>
+
+<h1>Contato</h1>
+Caso queira entrar em contato comigo, sinta-se à vontade para enviar um e-mail para <a href="mailto:leonardodarosadornelles@gmail.com" target="blank">leonardodarosadornelles@gmail.com</a> ou me enviar uma mensagem pelo <a href="https://www.linkedin.com/in/leonardo-da-rosa-dornelles-165187240" target="blank">LinkedIn</a>.
