@@ -9,7 +9,7 @@ Para garantir que meus projetos sejam de alta qualidade, também me preocupo mui
 
 estou sempre aprendendo e me atualizando sobre as últimas tendências e tecnologias em design e desenvolvimento web. Acredito que essa é a chave para me tornar um profissional cada vez melhor e oferecer soluções criativas e eficazes para meus clientes e usuários.
 
-Em resumo, como Front-end Jr, uso HTML, CSS e JS para criar interfaces web atraentes e funcionais. Estou sempre aprendendo e me atualizando sobre as últimas tendências e tecnologias para oferecer as melhores soluções para meus clientes e usuários.
+Em resumo, como Front-end Jr, uso HTML, CSS e JS para criar interfaces web atraentes e funcionais. Estou sempre aprendendo e me atualizando sobre tecnologias para oferecer as melhores soluções para os usuários.
 
 <h2>Meus projetos</h2> 
 
@@ -20,3 +20,5 @@ Em resumo, como Front-end Jr, uso HTML, CSS e JS para criar interfaces web atrae
 [Projeto androide](https://leonardodarosadornelles.github.io/projeto-andorid/)
 
 [Projeto social](https://leonardodarosadornelles.github.io/projeto-social/)
+
+<h2></h2>
